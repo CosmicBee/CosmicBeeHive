@@ -1,0 +1,219 @@
+body{
+    text-align: center;
+    color:
+	#000000;
+
+    font-family: 'Lacquer', cursive;
+}
+
+
+html{
+	background-color: black;
+	background: url('https://cdn.myportfolio.com/d0d86074-c0d0-4676-9f9b-20ee02d5064a/b69ef1aa-307f-44c6-adad-f9b4d80d96e1_rw_1200.png?h=bd480cbb0f6c60b4cd5cdd923394294f') no-repeat center fixed;     
+    background-size: cover;
+	scroll-behavior: smooth;
+}
+
+
+
+
+
+
+.box {
+	
+
+    background-color: rgb(5, 242, 219, 0.8) ;
+    
+	border-radius: 20px;
+    border: 10px solid rgba(67, 202, 255, 0.637) ;
+    padding: 50px 0;
+    margin: 20px;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em
+    
+
+	  
+  }
+
+
+
+ 
+
+
+h1{
+	color: #291AE0;
+    font-size: x-large;
+}
+h2{
+	color: black;
+	background: -webkit-linear-gradient(rgb(129, 33, 153),rgb(214, 63, 176) );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+
+
+i:hover{
+color: rgb(230, 78, 78);
+}
+
+h3{
+    color: rgb(196, 0, 0);
+	font-size: 20px;
+}
+
+h3:hover{
+	color: white;
+}
+
+h5{
+	font-size: 20px;
+	background: -webkit-linear-gradient(rgb(180, 24, 241), blue );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+
+
+
+
+
+
+ /*Nav Bar*/
+
+
+
+body {margin: 0;}
+
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
+ border-radius: 30px;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: #0011ff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: rgb(231, 111, 255);
+}
+
+ul.topnav li a:hover:not(.active) {background-color: rgb(115, 236, 99);}
+
+ul.topnav li a.active {background-color: rgb(5, 242, 219);}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+
+
+
+
+
+
+
+
+
+
+     
+#div2 {
+    width: 50px;
+    float: right;
+    
+}
+    
+       
+#div3 {
+   
+    float: left;
+
+    
+}
+
+
+
+
+
+#div4 {
+   
+    float: left;
+}
+
+
+#div5 {
+    
+    float: right;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+	
+  }
+  
+ .img2{ 
+    border: 0px
+ }
+
+
+ .img3{ 
+    border: 0px
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ button{
+	padding: 20px;
+	margin: 20px;
+	border-radius: 30px;
+	border-color: greenyellow;
+	color: orangered;
+	background-color:#859BFF;
+}
+
+button:hover{
+	color: powderblue;
+	border-color: powderblue;
+	background-color: #c53939;
+}
