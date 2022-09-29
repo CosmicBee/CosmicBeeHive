@@ -55,12 +55,16 @@ h2{
 
 
 
+
+
+
+
 i:hover{
 color: rgb(230, 78, 78);
 }
 
 h3{
-    color: rgb(196, 0, 0);
+    color: rgb(81, 171, 255);
 	font-size: 20px;
 }
 
@@ -208,12 +212,12 @@ img {
 	margin: 20px;
 	border-radius: 30px;
 	border-color: greenyellow;
-	color: orangered;
-	background-color:#859BFF;
+	color: rgb(61, 184, 255);
+	background-color:#385cfc;
 }
 
 button:hover{
-	color: powderblue;
+	color: rgb(84, 231, 250);
 	border-color: powderblue;
-	background-color: #c53939;
+	background-color: #7072fc;
 }
